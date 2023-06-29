@@ -28,4 +28,4 @@ Let’s have a look at how the final project will look like:
 
 ![tic](https://github.com/CoderPartha012/Simple-Tic-Tac-Toe-Game-using-JavaScript/assets/104616945/eb5f5310-674f-4f2c-862a-dcd8ff7a6319)
 
-                                              Simple Tic-Tac-Toe Game using JavaScript
+                                            Simple Tic-Tac-Toe Game using JavaScript
